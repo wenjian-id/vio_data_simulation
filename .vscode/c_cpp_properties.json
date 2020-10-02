@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/kinetic/include",
+                "/home/ai-ad/POC/SLAM/VINS-Calibrate/src/vins_calibrate_offline/vins_estimator/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "compilerPath": "/usr/local/bin/gcc",
+            "cStandard": "c11"
+        }
+    ],
+    "version": 4
+}
